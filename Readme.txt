@@ -6,4 +6,5 @@ Comp Sci 3GC3 Assignment #3:
 Instructions appear when program is run.
 
 Running Instructions: 
- - Call make, and run Modeller.x
+ - Call make
+ - Run Modeller.x
